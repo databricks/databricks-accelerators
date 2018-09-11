@@ -1,2 +1,2 @@
-# databricks-accelerators
-Accelerate the use of Databricks for customers [public repo]
+# databricks-accelerators-private
+Accelerate the use of Databricks for customers
